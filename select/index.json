@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Watch Me",
+  "base_artist": "天乃リリサ(CV: 前田佳織里)、橘 美花莉(CV: 鬼頭明里)",
+  "createdAt": "2025-12-05T13:42:32.478022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Watch Me",
+      "artist": "Lorrie Morgan",
+      "has_synced": true,
+      "path": "select/01_Watch_Me_Lorrie_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Watch Me Go",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/02_Watch_Me_Go_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Watch Me",
+      "artist": "ANOHNI",
+      "has_synced": true,
+      "path": "select/03_Watch_Me_ANOHNI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Watch Me Now, I'm Calling",
+      "artist": "Blake Babies",
+      "has_synced": false,
+      "path": "select/04_Watch_Me_Now,_I'm_Calling_Blake_Babies.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Watch Me Bleed",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/05_Watch_Me_Bleed_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Watch Me Jumpstart",
+      "artist": "Guided By Voices",
+      "has_synced": true,
+      "path": "select/06_Watch_Me_Jumpstart_Guided_By_Voices.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Watch Me",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/07_Watch_Me_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Watch Me",
+      "artist": "Icon for Hire",
+      "has_synced": false,
+      "path": "select/08_Watch_Me_Icon_for_Hire.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Watch Me Do",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/09_Watch_Me_Do_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Watch Me Now",
+      "artist": "Danger Twins",
+      "has_synced": true,
+      "path": "select/10_Watch_Me_Now_Danger_Twins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Watch Me Bleed",
+      "artist": "'Til Tuesday",
+      "has_synced": true,
+      "path": "select/11_Don't_Watch_Me_Bleed_'Til_Tuesday.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don’t Watch Me Bleed",
+      "artist": "'Til Tuesday",
+      "has_synced": true,
+      "path": "select/12_Don’t_Watch_Me_Bleed_'Til_Tuesday.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Watch Me",
+      "artist": "Rico Nasty",
+      "has_synced": true,
+      "path": "select/13_Watch_Me_Rico_Nasty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Watch Me (Demo Version)",
+      "artist": "Slowdive",
+      "has_synced": false,
+      "path": "select/14_Watch_Me_(Demo_Version)_Slowdive.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Watch Me",
+      "artist": "Slowdive",
+      "has_synced": false,
+      "path": "select/15_Watch_Me_Slowdive.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Watch Me",
+      "artist": "天乃リリサ(前田佳織里),橘美花莉(鬼頭明里)",
+      "has_synced": false,
+      "path": "select/pl_01_Watch_Me_天乃リリサ(前田佳織里),橘美花莉(鬼頭明里).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Watch Me",
+      "artist": "天乃リリサ(前田佳織里),橘美花莉(鬼頭明里)",
+      "has_synced": false,
+      "path": "select/pl_02_Watch_Me_天乃リリサ(前田佳織里),橘美花莉(鬼頭明里).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Watch Me (TVサイズ)",
+      "artist": "天乃リリサ(前田佳織里),橘美花莉(鬼頭明里)",
+      "has_synced": false,
+      "path": "select/pl_03_Watch_Me_(TVサイズ)_天乃リリサ(前田佳織里),橘美花莉(鬼頭明里).txt"
+    }
+  ]
+}
